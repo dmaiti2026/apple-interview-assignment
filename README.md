@@ -17,7 +17,7 @@ No database setup needed — H2 runs fully in-memory.
 ## Project Structure
 
 ```
-Apple Interview/
+apple-interview-assignment
 ├── pom.xml
 └── src/
     └── main/
@@ -63,7 +63,7 @@ Apple Interview/
 ### 1. Navigate to the project directory
 
 ```bash
-cd "Apple Interview"
+cd apple-interview-assignment
 ```
 
 ### 2. Build
